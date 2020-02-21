@@ -1,11 +1,14 @@
-# UbicuasProject2020
-# Título del Proyecto
+# Proyecto Plataformas Ubicuaas 2020
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
-## Comenzando 🚀
+## Introducción 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Se espera que hacia 2050 la población mundial pase de 7 mil millones de personas a más de 9 mil millones y se proyecta que la economía mundial crezca casi cuatro veces, con una creciente demanda de energía y de recursos naturales. Se proyecta que hacia 2050 casi 70% de la población mundial será urbana, lo que aumentará los desafíos respecto a la contaminación atmosférica, la congestión del transporte y la gestión de la basura. Bajo este escenario la contaminación del aire se convertirá en la principal causa ambiental de mortalidad prematura en el mundo, para el 2050 el número de muertes prematuras derivadas de la exposición a partículas suspendidas aumentará más del doble y alcanzará 3.6 millones cada año.
+En América Latina y el Caribe (LAC por sus siglas en inglés), por lo menos 100 millones de personas están expuestas a niveles de contaminación del aire por encima de los recomendados por la Organización Mundial de la Salud (OMS) (Cifuentes, 2005). Los grupos más vulnerables a los efectos dañinos de una mala calidad del aire incluyen a niños, adultos mayores, personas con previos problemas de salud y población de bajos estratos socioeconómicos (Joanne Green, 2013). 
+En Colombia un informe  realizado por el Departamento Nacional de Planeación (DNP), concluye que la contaminación del aire mata cada año en promedio a 8.000 personas mayores de 44 años, de este total, 668 están relacionadas con cáncer de pulmón y 7.362 con enfermedades cardiopulmonares, enfermedades que seguirán en aumento el los próximos años. 
+En el caso de Bogotá, la Cámara de Comercio informó que la capital solo cuenta con 13 estaciones de monitoreo fijo y una móvil las cuales resultan insuficientes para registrar la calidad del aire, las cuales presentan datos parciales, que no interpretan a cabalidad las condiciones reales de contaminación en lugares puntuales de la ciudad (Getty, 2019). 
+_
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
