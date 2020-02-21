@@ -26,7 +26,7 @@ Ofrecemos un producto para Vehiculos y servicios en la nube que permitan el moni
 
 ## Autores ✒️
 
-* **Jose Luis Cortes Carvajal** - *Trabajo Inicial* - [villanuevand](https://github.com/jos3cort3s)
+* **Jose Luis Cortes Carvajal** - *Trabajo Inicial* - [Profil Link](https://github.com/jos3cort3s)
 
 
 ## Expresiones de Gratitud 🎁
